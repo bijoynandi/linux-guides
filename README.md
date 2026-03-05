@@ -1,4 +1,4 @@
-# Fedora KDE Setup
+# Linux Guides
 
 ## Prerequisites
 
